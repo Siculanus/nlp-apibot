@@ -1,7 +1,7 @@
 from googlesearch import search
 
 # query string to search on Google
-query = "As you are by Harry Styles"
+query = "As you are by John Rivers"
 
 # number of top search results to fetch
 numResults = 3
